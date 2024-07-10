@@ -47,6 +47,8 @@
                 ],
                 "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
                 "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
                   "AXIAL"
                 ],
                 "Modality": "CT",
@@ -89,6 +91,8 @@
                 ],
                 "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
                 "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
                   "AXIAL"
                 ],
                 "Modality": "CT",
