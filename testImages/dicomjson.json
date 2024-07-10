@@ -32,6 +32,11 @@
                   0.703125
                 ],
                 "HighBit": 15,
+                "ImagePositionPatient": [
+                  -166,
+                  -171.699997,
+                  -12.5
+                ],
                 "ImageOrientationPatient": [
                   1,
                   0,
@@ -76,6 +81,11 @@
                   0,
                   1,
                   0
+                ],
+                "ImagePositionPatient": [
+                  -166,
+                  -171.699997,
+                  -12.5
                 ],
                 "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
                 "ImageType": [
