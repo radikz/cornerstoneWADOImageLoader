@@ -71,7 +71,7 @@
                 "AcquisitionDate": "20240709",
                 "AcquisitionTime": "095444.146114"
               },
-              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/raw/master/testDicom/191329"
+              "url": "dicomweb:http://localhost:3003/static/191329"
             },
             {
               "metadata": {
@@ -121,7 +121,7 @@
                 "AcquisitionDate": "20240709",
                 "AcquisitionTime": "095444.146114"
               },
-              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/raw/master/testDicom/191330"
+              "url": "dicomweb:http://localhost:3003/static/191330"
             },
             {
               "metadata": {
@@ -171,7 +171,7 @@
                 "AcquisitionDate": "20240709",
                 "AcquisitionTime": "095444.146114"
               },
-              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/raw/master/testDicom/191331"
+              "url": "dicomweb:http://localhost:3003/static/191331"
             },
             {
               "metadata": {
@@ -221,7 +221,7 @@
                 "AcquisitionDate": "20240709",
                 "AcquisitionTime": "095444.146114"
               },
-              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/raw/master/testDicom/191332"
+              "url": "dicomweb:http://localhost:3003/static/191332"
             },
             {
               "metadata": {
@@ -271,7 +271,7 @@
                 "AcquisitionDate": "20240709",
                 "AcquisitionTime": "095444.146114"
               },
-              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/raw/master/testDicom/191333"
+              "url": "dicomweb:http://localhost:3003/static/191333"
             },
             {
               "metadata": {
@@ -321,7 +321,7 @@
                 "AcquisitionDate": "20240709",
                 "AcquisitionTime": "095444.146114"
               },
-              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/raw/master/testDicom/191334"
+              "url": "dicomweb:http://localhost:3003/static/191334"
             },
             {
               "metadata": {
@@ -371,7 +371,7 @@
                 "AcquisitionDate": "20240709",
                 "AcquisitionTime": "095444.146114"
               },
-              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/raw/master/testDicom/191335"
+              "url": "dicomweb:http://localhost:3003/static/191335"
             }
           ]
         }
