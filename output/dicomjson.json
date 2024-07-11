@@ -1,0 +1,383 @@
+{
+  "studies": [
+    {
+      "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
+      "StudyDescription": "CT-SCAN KEPALA",
+      "StudyDate": "20240709",
+      "StudyTime": "095322",
+      "PatientName": [
+        {
+          "Alphabetic": "MELKY YOU FELLY, TN"
+        }
+      ],
+      "PatientID": "207350",
+      "AccessionNumber": "313147",
+      "PatientAge": "045Y",
+      "PatientSex": "M",
+      "series": [
+        {
+          "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
+          "SeriesDescription": "Axial",
+          "SeriesNumber": 300,
+          "SeriesTime": "100149",
+          "Modality": "CT",
+          "SliceThickness": 0.3984380066,
+          "instances": [
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 7,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.3984380066,
+                  0.3984380066
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.9924429655,
+                  -0.0941285044,
+                  -0.07871992141,
+                  0.0629574731,
+                  0.9412540793,
+                  -0.3317789137
+                ],
+                "ImagePositionPatient": [
+                  -109.0479965,
+                  -68.31999207,
+                  53.90698242
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.8",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240709",
+                "AcquisitionDate": "20240709",
+                "AcquisitionTime": "095444.146114"
+              },
+              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/blob/master/testDicom/191329"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 6,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.3984380066,
+                  0.3984380066
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.9924429655,
+                  -0.0941285044,
+                  -0.07871992141,
+                  0.0629574731,
+                  0.9412540197,
+                  -0.3317788839
+                ],
+                "ImagePositionPatient": [
+                  -109.5860519,
+                  -69.97675323,
+                  49.10464478
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.7",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240709",
+                "AcquisitionDate": "20240709",
+                "AcquisitionTime": "095444.146114"
+              },
+              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/blob/master/testDicom/191330"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 5,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.3984380066,
+                  0.3984380066
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.9924429059,
+                  -0.09412854165,
+                  -0.0787198469,
+                  0.06295754761,
+                  0.9412539601,
+                  -0.3317788839
+                ],
+                "ImagePositionPatient": [
+                  -110.1240997,
+                  -71.6335144,
+                  44.30229187
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.6",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240709",
+                "AcquisitionDate": "20240709",
+                "AcquisitionTime": "095444.146114"
+              },
+              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/blob/master/testDicom/191331"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 4,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.3984380066,
+                  0.3984380066
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.9924429059,
+                  -0.09412854165,
+                  -0.07871988416,
+                  0.06295754015,
+                  0.9412540197,
+                  -0.3317788243
+                ],
+                "ImagePositionPatient": [
+                  -110.6621552,
+                  -73.29027557,
+                  39.49995422
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.5",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240709",
+                "AcquisitionDate": "20240709",
+                "AcquisitionTime": "095444.146114"
+              },
+              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/blob/master/testDicom/191332"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 3,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.3984380066,
+                  0.3984380066
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.9924429655,
+                  -0.0941285044,
+                  -0.07871988416,
+                  0.0629574731,
+                  0.9412540197,
+                  -0.3317788541
+                ],
+                "ImagePositionPatient": [
+                  -111.2002029,
+                  -74.94704437,
+                  34.69761658
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.4",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240709",
+                "AcquisitionDate": "20240709",
+                "AcquisitionTime": "095444.146114"
+              },
+              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/blob/master/testDicom/191333"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 2,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.3984380066,
+                  0.3984380066
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.9924429655,
+                  -0.0941285044,
+                  -0.07871988416,
+                  0.0629574731,
+                  0.9412540793,
+                  -0.3317788839
+                ],
+                "ImagePositionPatient": [
+                  -111.7382584,
+                  -76.60381317,
+                  29.89527893
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.3",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240709",
+                "AcquisitionDate": "20240709",
+                "AcquisitionTime": "095444.146114"
+              },
+              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/blob/master/testDicom/191334"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 1,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.3984380066,
+                  0.3984380066
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.9924429655,
+                  -0.0941285044,
+                  -0.07871992141,
+                  0.0629574731,
+                  0.9412540793,
+                  -0.3317788243
+                ],
+                "ImagePositionPatient": [
+                  -112.2763062,
+                  -78.26058197,
+                  25.09294128
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.2",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240709",
+                "AcquisitionDate": "20240709",
+                "AcquisitionTime": "095444.146114"
+              },
+              "url": "dicomweb:https://github.com/radikz/cornerstoneWADOImageLoader/blob/master/testDicom/191335"
+            }
+          ]
+        }
+      ],
+      "NumInstances": 7,
+      "Modalities": "CT"
+    }
+  ]
+}
