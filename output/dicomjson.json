@@ -1,33 +1,33 @@
 {
   "studies": [
     {
-      "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
-      "StudyDescription": "CT-SCAN KEPALA",
-      "StudyDate": "20240709",
-      "StudyTime": "095322",
+      "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+      "StudyDescription": "CT BRAIN",
+      "StudyDate": "20240416",
+      "StudyTime": "005551",
       "PatientName": [
         {
-          "Alphabetic": "MELKY YOU FELLY, TN"
+          "Alphabetic": "RAIZAL^TAUFIK,^TN"
         }
       ],
-      "PatientID": "207350",
-      "AccessionNumber": "313147",
-      "PatientAge": "045Y",
+      "PatientID": "447261",
+      "AccessionNumber": "",
+      "PatientAge": "053Y",
       "PatientSex": "M",
       "series": [
         {
-          "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
-          "SeriesDescription": "Axial",
+          "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+          "SeriesDescription": "Processed Images",
           "SeriesNumber": 300,
-          "SeriesTime": "100149",
+          "SeriesTime": "010013",
           "Modality": "CT",
-          "SliceThickness": 0.3984380066,
+          "SliceThickness": 2.5,
           "instances": [
             {
               "metadata": {
                 "Columns": 512,
                 "Rows": 512,
-                "InstanceNumber": 7,
+                "InstanceNumber": 1,
                 "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
                 "AcquisitionNumber": 1,
                 "PhotometricInterpretation": "MONOCHROME2",
@@ -36,242 +36,43 @@
                 "PixelRepresentation": 1,
                 "SamplesPerPixel": 1,
                 "PixelSpacing": [
-                  0.3984380066,
-                  0.3984380066
+                  0.4882810116,
+                  0.4882810116
                 ],
                 "HighBit": 15,
                 "ImageOrientationPatient": [
-                  0.9924429655,
-                  -0.0941285044,
-                  -0.07871992141,
-                  0.0629574731,
-                  0.9412540793,
-                  -0.3317789137
+                  0.996912241,
+                  0.01201442908,
+                  -0.07759919018,
+                  -0.03399268165,
+                  0.9568586349,
+                  -0.2885585725
                 ],
                 "ImagePositionPatient": [
-                  -109.0479965,
-                  -68.31999207,
-                  53.90698242
+                  -119.0532074,
+                  -134.1607361,
+                  -7.190963745
                 ],
-                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
                 "ImageType": [
                   "DERIVED",
                   "SECONDARY",
-                  "REFORMATTED"
+                  "REFORMATTED",
+                  "AVERAGE"
                 ],
                 "Modality": "CT",
-                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.8",
-                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
-                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.2",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
                 "WindowCenter": 40,
                 "WindowWidth": 100,
                 "RescaleIntercept": -1024,
                 "RescaleSlope": 1,
-                "SeriesDate": "20240709",
-                "AcquisitionDate": "20240709",
-                "AcquisitionTime": "095444.146114"
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
               },
-              "url": "dicomweb:http://localhost:3003/static/191329"
-            },
-            {
-              "metadata": {
-                "Columns": 512,
-                "Rows": 512,
-                "InstanceNumber": 6,
-                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
-                "AcquisitionNumber": 1,
-                "PhotometricInterpretation": "MONOCHROME2",
-                "BitsAllocated": 16,
-                "BitsStored": 16,
-                "PixelRepresentation": 1,
-                "SamplesPerPixel": 1,
-                "PixelSpacing": [
-                  0.3984380066,
-                  0.3984380066
-                ],
-                "HighBit": 15,
-                "ImageOrientationPatient": [
-                  0.9924429655,
-                  -0.0941285044,
-                  -0.07871992141,
-                  0.0629574731,
-                  0.9412540197,
-                  -0.3317788839
-                ],
-                "ImagePositionPatient": [
-                  -109.5860519,
-                  -69.97675323,
-                  49.10464478
-                ],
-                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
-                "ImageType": [
-                  "DERIVED",
-                  "SECONDARY",
-                  "REFORMATTED"
-                ],
-                "Modality": "CT",
-                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.7",
-                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
-                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
-                "WindowCenter": 40,
-                "WindowWidth": 100,
-                "RescaleIntercept": -1024,
-                "RescaleSlope": 1,
-                "SeriesDate": "20240709",
-                "AcquisitionDate": "20240709",
-                "AcquisitionTime": "095444.146114"
-              },
-              "url": "dicomweb:http://localhost:3003/static/191330"
-            },
-            {
-              "metadata": {
-                "Columns": 512,
-                "Rows": 512,
-                "InstanceNumber": 5,
-                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
-                "AcquisitionNumber": 1,
-                "PhotometricInterpretation": "MONOCHROME2",
-                "BitsAllocated": 16,
-                "BitsStored": 16,
-                "PixelRepresentation": 1,
-                "SamplesPerPixel": 1,
-                "PixelSpacing": [
-                  0.3984380066,
-                  0.3984380066
-                ],
-                "HighBit": 15,
-                "ImageOrientationPatient": [
-                  0.9924429059,
-                  -0.09412854165,
-                  -0.0787198469,
-                  0.06295754761,
-                  0.9412539601,
-                  -0.3317788839
-                ],
-                "ImagePositionPatient": [
-                  -110.1240997,
-                  -71.6335144,
-                  44.30229187
-                ],
-                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
-                "ImageType": [
-                  "DERIVED",
-                  "SECONDARY",
-                  "REFORMATTED"
-                ],
-                "Modality": "CT",
-                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.6",
-                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
-                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
-                "WindowCenter": 40,
-                "WindowWidth": 100,
-                "RescaleIntercept": -1024,
-                "RescaleSlope": 1,
-                "SeriesDate": "20240709",
-                "AcquisitionDate": "20240709",
-                "AcquisitionTime": "095444.146114"
-              },
-              "url": "dicomweb:http://localhost:3003/static/191331"
-            },
-            {
-              "metadata": {
-                "Columns": 512,
-                "Rows": 512,
-                "InstanceNumber": 4,
-                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
-                "AcquisitionNumber": 1,
-                "PhotometricInterpretation": "MONOCHROME2",
-                "BitsAllocated": 16,
-                "BitsStored": 16,
-                "PixelRepresentation": 1,
-                "SamplesPerPixel": 1,
-                "PixelSpacing": [
-                  0.3984380066,
-                  0.3984380066
-                ],
-                "HighBit": 15,
-                "ImageOrientationPatient": [
-                  0.9924429059,
-                  -0.09412854165,
-                  -0.07871988416,
-                  0.06295754015,
-                  0.9412540197,
-                  -0.3317788243
-                ],
-                "ImagePositionPatient": [
-                  -110.6621552,
-                  -73.29027557,
-                  39.49995422
-                ],
-                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
-                "ImageType": [
-                  "DERIVED",
-                  "SECONDARY",
-                  "REFORMATTED"
-                ],
-                "Modality": "CT",
-                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.5",
-                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
-                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
-                "WindowCenter": 40,
-                "WindowWidth": 100,
-                "RescaleIntercept": -1024,
-                "RescaleSlope": 1,
-                "SeriesDate": "20240709",
-                "AcquisitionDate": "20240709",
-                "AcquisitionTime": "095444.146114"
-              },
-              "url": "dicomweb:http://localhost:3003/static/191332"
-            },
-            {
-              "metadata": {
-                "Columns": 512,
-                "Rows": 512,
-                "InstanceNumber": 3,
-                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
-                "AcquisitionNumber": 1,
-                "PhotometricInterpretation": "MONOCHROME2",
-                "BitsAllocated": 16,
-                "BitsStored": 16,
-                "PixelRepresentation": 1,
-                "SamplesPerPixel": 1,
-                "PixelSpacing": [
-                  0.3984380066,
-                  0.3984380066
-                ],
-                "HighBit": 15,
-                "ImageOrientationPatient": [
-                  0.9924429655,
-                  -0.0941285044,
-                  -0.07871988416,
-                  0.0629574731,
-                  0.9412540197,
-                  -0.3317788541
-                ],
-                "ImagePositionPatient": [
-                  -111.2002029,
-                  -74.94704437,
-                  34.69761658
-                ],
-                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
-                "ImageType": [
-                  "DERIVED",
-                  "SECONDARY",
-                  "REFORMATTED"
-                ],
-                "Modality": "CT",
-                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.4",
-                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
-                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
-                "WindowCenter": 40,
-                "WindowWidth": 100,
-                "RescaleIntercept": -1024,
-                "RescaleSlope": 1,
-                "SeriesDate": "20240709",
-                "AcquisitionDate": "20240709",
-                "AcquisitionTime": "095444.146114"
-              },
-              "url": "dicomweb:http://localhost:3003/static/191333"
+              "url": "dicomweb:http://localhost:3003/static/586CEE52"
             },
             {
               "metadata": {
@@ -286,48 +87,49 @@
                 "PixelRepresentation": 1,
                 "SamplesPerPixel": 1,
                 "PixelSpacing": [
-                  0.3984380066,
-                  0.3984380066
+                  0.4882810116,
+                  0.4882810116
                 ],
                 "HighBit": 15,
                 "ImageOrientationPatient": [
-                  0.9924429655,
-                  -0.0941285044,
-                  -0.07871988416,
-                  0.0629574731,
-                  0.9412540793,
-                  -0.3317788839
+                  0.996912241,
+                  0.01201442908,
+                  -0.07759921998,
+                  -0.03399274126,
+                  0.9568586349,
+                  -0.2885586023
                 ],
                 "ImagePositionPatient": [
-                  -111.7382584,
-                  -76.60381317,
-                  29.89527893
+                  -118.6885376,
+                  -132.6650848,
+                  -2.274337769
                 ],
-                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
                 "ImageType": [
                   "DERIVED",
                   "SECONDARY",
-                  "REFORMATTED"
+                  "REFORMATTED",
+                  "AVERAGE"
                 ],
                 "Modality": "CT",
-                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.3",
-                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
-                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.3",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
                 "WindowCenter": 40,
                 "WindowWidth": 100,
                 "RescaleIntercept": -1024,
                 "RescaleSlope": 1,
-                "SeriesDate": "20240709",
-                "AcquisitionDate": "20240709",
-                "AcquisitionTime": "095444.146114"
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
               },
-              "url": "dicomweb:http://localhost:3003/static/191334"
+              "url": "dicomweb:http://localhost:3003/static/586CEE53"
             },
             {
               "metadata": {
                 "Columns": 512,
                 "Rows": 512,
-                "InstanceNumber": 1,
+                "InstanceNumber": 3,
                 "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
                 "AcquisitionNumber": 1,
                 "PhotometricInterpretation": "MONOCHROME2",
@@ -336,47 +138,1068 @@
                 "PixelRepresentation": 1,
                 "SamplesPerPixel": 1,
                 "PixelSpacing": [
-                  0.3984380066,
-                  0.3984380066
+                  0.4882810116,
+                  0.4882810116
                 ],
                 "HighBit": 15,
                 "ImageOrientationPatient": [
-                  0.9924429655,
-                  -0.0941285044,
-                  -0.07871992141,
-                  0.0629574731,
-                  0.9412540793,
-                  -0.3317788243
+                  0.996912241,
+                  0.01201443095,
+                  -0.07759919763,
+                  -0.03399255872,
+                  0.9568586349,
+                  -0.2885585725
                 ],
                 "ImagePositionPatient": [
-                  -112.2763062,
-                  -78.26058197,
-                  25.09294128
+                  -118.3238602,
+                  -131.1694336,
+                  2.642288208
                 ],
-                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.999.4645.1",
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
                 "ImageType": [
                   "DERIVED",
                   "SECONDARY",
-                  "REFORMATTED"
+                  "REFORMATTED",
+                  "AVERAGE"
                 ],
                 "Modality": "CT",
-                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.2",
-                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.24477.1720494109.1.4.1",
-                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.365.1718296624.998",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.4",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
                 "WindowCenter": 40,
                 "WindowWidth": 100,
                 "RescaleIntercept": -1024,
                 "RescaleSlope": 1,
-                "SeriesDate": "20240709",
-                "AcquisitionDate": "20240709",
-                "AcquisitionTime": "095444.146114"
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
               },
-              "url": "dicomweb:http://localhost:3003/static/191335"
+              "url": "dicomweb:http://localhost:3003/static/586CEE54"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 4,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439928,
+                  -0.07759919763,
+                  -0.03399267793,
+                  0.9568586349,
+                  -0.2885586023
+                ],
+                "ImagePositionPatient": [
+                  -117.9591827,
+                  -129.6737823,
+                  7.558898926
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.5",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/586CEE55"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 5,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439835,
+                  -0.07759921998,
+                  -0.03399268165,
+                  0.9568586946,
+                  -0.2885585427
+                ],
+                "ImagePositionPatient": [
+                  -117.5945053,
+                  -128.1781311,
+                  12.4755249
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.6",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/586CEE56"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 6,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439835,
+                  -0.07759919018,
+                  -0.03399274126,
+                  0.9568586349,
+                  -0.2885586023
+                ],
+                "ImagePositionPatient": [
+                  -117.2298279,
+                  -126.6824799,
+                  17.39214325
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.7",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/586CEE57"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 7,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439928,
+                  -0.07759919763,
+                  -0.03399261832,
+                  0.9568586946,
+                  -0.2885585427
+                ],
+                "ImagePositionPatient": [
+                  -116.8651581,
+                  -125.1868286,
+                  22.3087616
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.8",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/586CEE58"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 8,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439835,
+                  -0.07759919018,
+                  -0.03399267793,
+                  0.9568586349,
+                  -0.2885586023
+                ],
+                "ImagePositionPatient": [
+                  -116.5004807,
+                  -123.6911774,
+                  27.22537994
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.9",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/586CEE59"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 9,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439835,
+                  -0.07759924978,
+                  -0.03399268165,
+                  0.9568586946,
+                  -0.2885585427
+                ],
+                "ImagePositionPatient": [
+                  -116.1358032,
+                  -122.1955261,
+                  32.14202118
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.10",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DBFF"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 10,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201440021,
+                  -0.07759916782,
+                  -0.03399267793,
+                  0.9568586349,
+                  -0.2885586023
+                ],
+                "ImagePositionPatient": [
+                  -115.7711258,
+                  -120.6998749,
+                  37.05861664
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.11",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC00"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 11,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439928,
+                  -0.07759925723,
+                  -0.03399261832,
+                  0.9568586946,
+                  -0.2885585427
+                ],
+                "ImagePositionPatient": [
+                  -115.4064484,
+                  -119.204216,
+                  41.97525787
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.12",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC01"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 12,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439835,
+                  -0.07759919018,
+                  -0.03399274126,
+                  0.9568586349,
+                  -0.2885586023
+                ],
+                "ImagePositionPatient": [
+                  -115.0417786,
+                  -117.7085571,
+                  46.89186859
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.13",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC02"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 13,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439835,
+                  -0.07759921998,
+                  -0.03399267793,
+                  0.9568586349,
+                  -0.2885585725
+                ],
+                "ImagePositionPatient": [
+                  -114.6771011,
+                  -116.2128983,
+                  51.80849457
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.14",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC03"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 14,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439928,
+                  -0.07759916037,
+                  -0.03399267793,
+                  0.9568586349,
+                  -0.2885586023
+                ],
+                "ImagePositionPatient": [
+                  -114.3124237,
+                  -114.7172394,
+                  56.72510529
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.15",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC04"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 15,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201443095,
+                  -0.07759922743,
+                  -0.03399255872,
+                  0.9568586349,
+                  -0.2885585725
+                ],
+                "ImagePositionPatient": [
+                  -113.9477463,
+                  -113.2215881,
+                  61.64173126
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.16",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC05"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 16,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439835,
+                  -0.07759916037,
+                  -0.03399274126,
+                  0.9568586349,
+                  -0.2885586023
+                ],
+                "ImagePositionPatient": [
+                  -113.5830688,
+                  -111.7259216,
+                  66.55834198
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.17",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC06"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 17,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.9969121814,
+                  0.01201442815,
+                  -0.07759921253,
+                  -0.03399273753,
+                  0.9568586349,
+                  -0.2885585427
+                ],
+                "ImagePositionPatient": [
+                  -113.218399,
+                  -110.2302704,
+                  71.47496796
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.18",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC07"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 18,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439835,
+                  -0.07759921998,
+                  -0.03399267793,
+                  0.9568586349,
+                  -0.2885585725
+                ],
+                "ImagePositionPatient": [
+                  -112.8537216,
+                  -108.7346039,
+                  76.39157867
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.19",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC08"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 19,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201443095,
+                  -0.07759916782,
+                  -0.03399255872,
+                  0.9568586349,
+                  -0.2885586023
+                ],
+                "ImagePositionPatient": [
+                  -112.4890442,
+                  -107.2389526,
+                  81.30818939
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.20",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC1E"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 20,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201443095,
+                  -0.07759922743,
+                  -0.03399261832,
+                  0.9568586349,
+                  -0.2885585725
+                ],
+                "ImagePositionPatient": [
+                  -112.1243668,
+                  -105.7432938,
+                  86.22481537
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.21",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC1F"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 21,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.9969121814,
+                  0.01201442815,
+                  -0.07759927958,
+                  -0.03399274126,
+                  0.9568586946,
+                  -0.2885584831
+                ],
+                "ImagePositionPatient": [
+                  -111.7596893,
+                  -104.2476349,
+                  91.14144135
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.22",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC20"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 22,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201439835,
+                  -0.07759916037,
+                  -0.03399274126,
+                  0.9568586349,
+                  -0.2885585725
+                ],
+                "ImagePositionPatient": [
+                  -111.3950195,
+                  -102.751976,
+                  96.0580368
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.23",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC21"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": 23,
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "AcquisitionNumber": 1,
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 1,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  0.4882810116,
+                  0.4882810116
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  0.996912241,
+                  0.01201443095,
+                  -0.07759916782,
+                  -0.03399255872,
+                  0.9568586349,
+                  -0.2885586321
+                ],
+                "ImagePositionPatient": [
+                  -111.0303421,
+                  -101.2563171,
+                  100.9746628
+                ],
+                "FrameOfReferenceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.375.4770.1",
+                "ImageType": [
+                  "DERIVED",
+                  "SECONDARY",
+                  "REFORMATTED",
+                  "AVERAGE"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.24",
+                "SeriesInstanceUID": "1.2.840.113619.2.80.4203691086.17481.1713204013.1.4.1",
+                "StudyInstanceUID": "1.2.840.113619.2.332.3.2831156836.771.1711704692.373",
+                "WindowCenter": 40,
+                "WindowWidth": 100,
+                "RescaleIntercept": -1024,
+                "RescaleSlope": 1,
+                "SeriesDate": "20240416",
+                "AcquisitionDate": "20240416",
+                "AcquisitionTime": "005711.254973"
+              },
+              "url": "dicomweb:http://localhost:3003/static/B530DC22"
             }
           ]
         }
       ],
-      "NumInstances": 7,
+      "NumInstances": 23,
       "Modalities": "CT"
     }
   ]
